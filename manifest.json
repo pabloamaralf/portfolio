@@ -1,0 +1,50 @@
+
+{
+	"short_name": "Pablo Amaral",
+	"name": "Pablo Amaral - Game Programmer",
+	"author": "Pablo Amaral",
+  	"scope": "./",
+  	"start_url": "index.html",
+  	"display": "standalone",
+  	"orientation": "any",
+  	"prefer_related_applications": false,
+  	"theme_color": "#B71C1C",
+  	"background_color": "#B71C1C",
+  	"icons": [
+	  	{
+			"src": "img/Icon/icon-0-75x.png",
+		    "sizes": "36x36",
+		    "type": "image/png"
+	  	},
+	  	{
+		    "src": "img/Icon/icon-1x.png",
+	    	"sizes": "48x48",
+	    	"type": "image/png"
+	  	},
+	  	{
+		    "src": "img/Icon/icon-1-5x.png",
+		    "sizes": "72x72",
+		    "type": "image/png"
+	  	},
+	  	{
+		    "src": "img/Icon/icon-2x.png",
+		    "sizes": "96x96",
+		    "type": "image/png"
+	  	},
+	  	{
+		    "src": "img/Icon/icon-3x.png",
+		    "sizes": "144x144",
+		    "type": "image/png"
+	  	},
+	  	{
+		    "src": "img/Icon/icon-4x.png",
+		    "sizes": "192x192",
+		    "type": "image/png"
+	  	},
+	  	{
+		    "src": "img/Icon/icon-5x.png",
+		    "sizes": "512x512",
+		    "type": "image/png"
+	  	}
+  	]
+}
